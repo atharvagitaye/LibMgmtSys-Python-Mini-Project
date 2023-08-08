@@ -8,7 +8,7 @@ Library Management System Mini Project using Python with the Tkinter GUI and Dat
 
 - [Atharva Gitaye](https://www.github.com/atharvagitaye)
 - [Sneh Shrimankar](https://www.github.com/sneh-shrimankar)
-- John Bright
+- [John Bright](https://www.linkedin.com/in/john-bright-4b9143268)
 
 ## Installation
 
